@@ -220,7 +220,7 @@ python tools/analysis_tools/visualize_reconstruction.py configs/selfsup/simmim/s
 Results of SimMIM:
 
 
-![](_h0_l2_visualize_8.jpg)
+![](image1_visualize_8x8.jpg)
 
 
 # Count Number of Parameters
